@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  background-image: url('images/bgb.gif') !important;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
